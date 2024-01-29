@@ -3,7 +3,8 @@ name: Build and deploy Plasmic app
 on:
   push:
     branches:
-      - dev
+      - main
+
 
 jobs:
   job:
